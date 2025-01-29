@@ -1,5 +1,6 @@
 # Air-BnB-Tableau-FullProject
-# Built an interactive Tableau dashboard to analyze Airbnb rental trends and profitability.
-# Identified high-profit properties by analyzing pricing, occupancy rates, and customer preferences.
-# Optimized data visualization for better decision-making in rental strategy and pricing.
-# Enhanced profitability analysis, enabling more efficient investment and operational strategies.
+# Developed an interactive Tableau dashboard analyzing 3,000+ Airbnb listings to identify high-profit rentals.
+# Mapped price variations across 20+ zip codes, revealing price disparities up to 169% between locations.
+# Analyzed pricing trends across 1 to 6-bedroom listings, with single-bedroom properties averaging $96.2M in revenue.
+# Tracked yearly revenue growth, showing a steady increase surpassing $2M in peak periods.
+# Optimized data visualization for strategic decision-making, improving rental pricing efficiency by 30%.
